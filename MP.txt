@@ -1,0 +1,13 @@
+Je@nnok0ssi88
+
+- Gestion des ventes avec le choix de commandes
+
+- Modification des produits avec une recherche plus précise
+
+- Affichage du numéro de commande sur le reçu
+
+- Modification des produits (bien comprendre les impacts d'une 
+  modification sur le solde d'un client)
+
+- Gestion des transferts de produits
+
